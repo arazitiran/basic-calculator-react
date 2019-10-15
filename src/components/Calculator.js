@@ -29,7 +29,7 @@ let Calculator = (props) => {
             marginLeft: 'auto',
         },
         inputPaper :{
-            width: '80%',
+            width: '90%',
             margin: 0,
             marginRight: 'auto',
             marginLeft: 'auto',

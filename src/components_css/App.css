@@ -8,7 +8,10 @@
 .App-logo {
   height: 40vmin;
 }
-
+footer {
+    background-color: #f50057;
+    color: white;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
